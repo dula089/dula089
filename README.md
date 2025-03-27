@@ -1,49 +1,39 @@
-<h1 align="center">Hi there, I'm Dulani Kariyawasam! 👋</h1>  
-<p align="center">
-  <em>Software Engineering Undergraduate | Tech Enthusiast | Problem Solver</em>  
-</p>  
+# Hi there! I'm Dulani Kariyawasam 👋
+
+## 🚀 About Me
+I'm a motivated Software Engineering undergraduate with a passion for innovative technology solutions. Skilled in full-stack development and problem-solving, I'm committed to creating impactful software applications.
+
+## 🎓 Education
+- **BEng in Software Engineering** | University of Westminster (2023-2027)
+- Specializing in Software Development, Computer Systems, and Object-Oriented Programming
+
+## 💻 Technical Skills
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulani-kariyawasam-48a86b294)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dula089)
+
+## 📧 Contact
+- **Email:** hansamalidulani6678@gmail.com
+- **Phone:** +94-789960694
 
 ---
 
-### 👩‍💻 About Me  
-- 🎓 Pursuing **BEng in Software Engineering** at **IIT (2023-2027)**  
-- 💡 Passionate about **software development, problem-solving, and building impactful solutions**  
-- 🔍 Exploring **Flutter, React, Spring Boot, and backend technologies**  
-
----
-
-### 🛠 Tech Stack  
-💻 **Languages:** Java, Python, Dart  
-🖥 **Frontend:** HTML, CSS, JavaScript, React  
-📱 **Mobile:** Flutter  
-🗄 **Backend & DB:** Spring Boot, MySQL  
-⚙ **Tools:** Git, VS Code, IntelliJ IDEA  
-
----
-
-### 🚀 What I'm Working On  
-🔹 **DriveWise** – A **Flutter-based** vehicle maintenance and compliance app  
-🔹 **Real-time Event Ticketing System** – A **multi-threaded Java application** for real-time event management  
-
----
-
-### 🌱 Currently Learning  
-- **Flutter development**  
-- **Spring Boot** for backend services  
-
----
-
-### 💬 Let's Connect!  
-📫 Reach me at: **hansamalidulani6678@gmail.com**  
-🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/dulani-kariyawasam-48a86b294)**  
-🌟 Check out my work on **[GitHub](https://github.com/dula089)**  
-
----
-
-### ⚡ Fun Fact  
-🚀 I love experimenting with new technologies and **solving logic puzzles** in my free time!  
-🎮 When I’m not coding, you’ll find me **gaming or exploring tech innovations**!  
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!** 🌟  
+🚀 Explore more on my GitHub: [Dulani Kariyawasam](https://github.com/dula089)
