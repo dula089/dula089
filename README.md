@@ -54,3 +54,7 @@ I'm a motivated Software Engineering undergraduate with a passion for innovative
 ---
 
 ⭐️ From [Dulani Kariyawasam](https://github.com/dula089)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dula089&show_icons=true&theme=radical)
+
