@@ -1,8 +1,5 @@
 # Hi there! I'm Dulani Kariyawasam 👋
 
-## About Me
-I'm a motivated Software Engineering undergraduate with a passion for innovative technology solutions. Skilled in full-stack development and problem-solving, I'm committed to creating impactful software applications.
-
 ## Education
 - **BEng in Software Engineering** | University of Westminster (2023-2027)
 - Specializing in Software Development, Computer Systems, and Object-Oriented Programming
@@ -50,8 +47,3 @@ I'm a motivated Software Engineering undergraduate with a passion for innovative
 ## Contact
 - **Email:** hansamalidulani6678@gmail.com
 - **Phone:** +94-789960694
-
----
-
-From [Dulani Kariyawasam](https://github.com/dula089)
-
